@@ -2882,7 +2882,7 @@ input[switch="dark"]:checked + label:before {
   background-color: #eff2f7;
 }
 .sp-container button.sp-choose {
-  background-color: #34c38f;
+  background-color: #34c38f00;
   margin-left: 5px;
   margin-right: 0;
 }
@@ -4815,7 +4815,7 @@ div.floating-action-menu.active > .action-button > .btn-floating > i {
 
 .list-group input[type="radio"]+.list-group-item:hover {
   cursor: pointer;
-  background-color: #73b2a5;
+  background-color: #00000000;
   color: #fff000;
   border-color: #000000;
 
@@ -4824,7 +4824,7 @@ div.floating-action-menu.active > .action-button > .btn-floating > i {
 }
 
 .list-group input[type="radio"]:checked+.list-group-item {
-  background-color: #338f80;
+  background-color: #00000000;
   color: #fff000;
 
   font-size: 12px;
